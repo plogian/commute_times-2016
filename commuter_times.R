@@ -1,7 +1,6 @@
 library(jsonlite)
 
-#census_api_key <- "YOUR API KEY HERE"
-census_api_key <- "336e3fb621e924285143c2d9e1abec0f019046f8"
+census_api_key <- "YOUR API KEY HERE"
 
 #get acs 2016 data for travel time to work and population for all urban areas
 vars <- paste('B08303_', sprintf('%03i', seq(1, 13)), 'E', sep='')
