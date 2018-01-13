@@ -1,0 +1,89 @@
+"","location_name","total_population","total_commuters","less_than_5_min","5_to_9_min","10_to_14_min","15_to_19_min","20_to_24_min","25_to_29_min","30_to_34_min","35_to_39_min","40_to_44_min","45_to_59_min","60_to_89_min","90_or_more_min","state","puma","median_commuter_number","median_commute_bins","median_commute_bin_number","percent_more_than_hour","percent_more_than_90"
+"86","Chicago City (South)--South Chicago, Pullman, West Pullman, East Side & South Deering PUMA; Illinois",131070,48010,285,1225,3440,4420,3122,1214,8633,869,2386,8994,9595,3827,"17","03532",24006,"40_to_44_min",12,28,8
+"82","Chicago City (South)--Chicago Lawn, Englewood/West Englewood & Greater Grand Crossing PUMA; Illinois",137667,45528,367,1534,1912,3117,7230,1554,7363,1485,2970,7465,7785,2746,"17","03528",22764,"30_to_34_min",10,23,6
+"75","Chicago City (West)--Austin, Belmont Cragin & Montclare PUMA; Illinois",180744,76222,177,1276,2279,5654,7300,3934,18928,1535,4662,13831,13151,3495,"17","03521",38112,"30_to_34_min",10,22,5
+"85","Chicago City (South)--Auburn Gresham, Roseland, Chatham, Avalon Park & Burnside PUMA; Illinois",129529,43510,94,422,2024,3228,5177,2365,7693,1445,3615,8587,6591,2269,"17","03531",21756,"35_to_39_min",11,20,5
+"60","Cook County (Southeast)--Thornton Township PUMA, Illinois",167812,68702,1030,2909,7014,8097,7623,2805,9955,1669,4610,9098,10942,2950,"17","03413",34352,"30_to_34_min",10,20,4
+"77","Chicago City (West)--North & South Lawndale, Humboldt Park, East & West Garfield Park PUMA; Illinois",209402,75150,789,1645,5150,5821,9097,3429,16568,1251,4148,12197,11641,3414,"17","03523",37576,"30_to_34_min",10,20,5
+"83","Chicago City (South)--South Shore, Hyde Park, Woodlawn, Grand Boulevard & Douglas PUMA; Illinois",179090,71003,901,2794,5105,5185,9119,3150,13902,1698,5275,9912,9682,4280,"17","03529",35502,"30_to_34_min",10,20,6
+"35","Kane County (West) PUMA, Illinois",122095,51648,1024,3167,3854,4594,7068,2729,7358,2086,2884,7054,8272,1558,"17","03009",25824,"30_to_34_min",10,19,3
+"38","Will County (Northwest)--DuPage & Wheatland Townships PUMA, Illinois",173381,81854,1748,5076,8814,7612,9201,4680,12652,2543,3877,10218,10638,4795,"17","03106",40928,"30_to_34_min",10,19,6
+"39","Will County (Northeast)--Frankfort, Homer & New Lenox (North) Townships PUMA; Illinois",126326,64380,1093,6151,5013,5813,7458,4391,8279,2651,3070,7989,9109,3363,"17","03107",32190,"30_to_34_min",10,19,5
+"47","DuPage County (Southwest)--Naperville & Winfield (South) Townships PUMA, Illinois",120066,58737,1048,3819,7918,6082,7635,2625,8646,1485,2818,5538,8590,2533,"17","03209",29369,"30_to_34_min",10,19,4
+"57","Cook County (Southwest)--Orland (West & Central), Palos & Lemont Townships PUMA; Illinois",173807,77331,1198,4661,8202,8160,7983,3956,11251,3041,5108,8788,12475,2508,"17","03410",38666,"30_to_34_min",10,19,3
+"40","Will County (South) PUMA, Illinois",112895,53305,1409,3398,5044,4271,5723,3495,8702,2160,3202,6389,6964,2548,"17","03108",26653,"30_to_34_min",10,18,5
+"84","Chicago City (South)--Ashburn, Washington Heights, Morgan Park & Beverly PUMA; Illinois",136370,60970,133,2079,4390,5412,6084,4148,10642,2585,5198,9437,8351,2511,"17","03530",30486,"30_to_34_min",10,18,4
+"88","McHenry County (Southeast)--Algonquin, McHenry & Nunda Townships PUMA; Illinois",171694,87904,1352,8158,11301,11773,8337,3611,8906,3211,4625,10977,11277,4376,"17","03602",43952,"25_to_29_min",9,18,5
+"70","Chicago City (North)--Edgewater, Uptown & Rogers Park PUMA; Illinois",170721,89953,442,2953,4217,6588,6895,5415,13018,5080,9158,20501,13380,2306,"17","03501",44977,"40_to_44_min",12,17,3
+"73","Chicago City (Northwest)--Irving Park, Albany Park, Forest Glen & North Park PUMA; Illinois",147974,74999,648,2484,3289,4966,6856,3028,15639,3725,9081,12858,11581,844,"17","03504",37500,"35_to_39_min",11,17,1
+"37","Will County (Northwest Central)--Plainfield & Lockport Townships PUMA, Illinois",142051,65857,573,4440,6804,6276,8022,6223,8760,3203,3271,7379,7884,3022,"17","03105",32929,"30_to_34_min",10,17,5
+"58","Cook County (South Central)--Worth & Calumet Townships PUMA, Illinois",170365,77227,1492,4996,6795,10350,7834,3191,10472,2248,6760,10268,10364,2457,"17","03411",38614,"30_to_34_min",10,17,3
+"74","Chicago City (Northwest)--Portage Park, Dunning & Jefferson Park PUMA; Illinois",125270,65724,79,1470,3109,4546,6712,4250,15860,3481,4316,10837,9096,1968,"17","03520",32862,"30_to_34_min",10,17,3
+"81","Chicago City (Southwest)--Gage Park, Garfield Ridge & West Lawn PUMA; Illinois",158146,65310,296,2633,5123,5239,7512,2921,14073,2078,4259,10182,8473,2521,"17","03527",32656,"30_to_34_min",10,17,4
+"89","Kendall & Grundy Counties PUMA, Illinois",175132,85302,2736,7497,9240,9919,11922,4531,7689,2520,5414,9437,11334,3063,"17","03700",42652,"25_to_29_min",9,17,4
+"50","Lake County (Southwest)--Ela, Freemont, Wauconda & Cuba Townships PUMA; Illinois",119799,55314,931,3717,4920,4941,3927,4316,7179,2448,4852,8965,7317,1801,"17","03308",27658,"30_to_34_min",10,16,3
+"41","DuPage County (Central)--Milton Township PUMA, Illinois",118034,50598,1047,4689,5884,6512,6323,3403,5660,1676,1742,5474,6518,1670,"17","03202",25300,"25_to_29_min",9,16,3
+"87","McHenry County (North, West & Central) PUMA; Illinois",135264,62489,1393,6382,6548,7404,7286,3612,5505,2833,2831,8881,7129,2685,"17","03601",31245,"25_to_29_min",9,16,4
+"61","Cook County (South)--Bloom & Rich Townships PUMA, Illinois",166755,68943,538,3292,7448,9129,10271,4172,7021,3089,2765,10843,7642,2733,"17","03414",34472,"25_to_29_min",9,15,4
+"72","Chicago City (North)--West Ridge, Lincoln Square & North Center PUMA; Illinois",154108,73756,562,3391,5775,4927,7054,3624,10910,3988,7891,15019,8780,1835,"17","03503",36878,"35_to_39_min",11,14,2
+"59","Cook County (South Central)--Bremen & Orland (East) Townships PUMA, Illinois",110579,47736,1014,1630,4133,5239,7186,2318,7355,2293,2908,6806,5427,1427,"17","03412",23868,"30_to_34_min",10,14,3
+"64","Cook County (Northwest)--Hanover & Schaumburg (Northwest) Townships PUMA, Illinois",118852,58128,933,3493,4592,7288,7315,4557,10733,2347,3552,5442,5742,2134,"17","03417",29064,"30_to_34_min",10,14,4
+"76","Chicago City (Northwest)--Logan Square, Avondale & Hermosa PUMA; Illinois",136220,74254,320,3716,5557,5605,10196,3768,14485,3927,5915,10713,8196,1856,"17","03522",37128,"30_to_34_min",10,14,2
+"33","Kane County (East)--St. Charles, Batavia (Central) & Geneva (Central) Townships PUMA; Illinois",119513,56444,932,6634,7004,6566,6039,3189,7011,1654,3095,6256,5341,2723,"17","03007",28222,"25_to_29_min",9,14,5
+"48","Lake County (Northwest)--Avon, Lake Villa, Antioch & Grant Townships PUMA; Illinois",159264,75196,1250,3854,6934,7475,7715,4828,12020,3792,6858,10937,7344,2189,"17","03306",37598,"30_to_34_min",10,13,3
+"56","Cook County (West Central)--Lyons & Stickney Townships PUMA, Illinois",152764,67726,1259,5138,7740,7858,6622,3759,11281,2252,4886,8092,6895,1944,"17","03409",33864,"30_to_34_min",10,13,3
+"80","Chicago City (Southwest)--Brighton Park, New City, Bridgeport & McKinley Park PUMA; Illinois",162347,70344,644,3448,5646,8648,10270,3085,16313,2451,3928,7063,6516,2332,"17","03526",35172,"30_to_34_min",10,13,3
+"34","Kane County (Northeast)--Elgin (North & Central) & Dundee Townships PUMA, Illinois",141195,65344,1022,5400,8471,8971,7558,3026,8381,2108,3331,8274,6856,1946,"17","03008",32672,"25_to_29_min",9,13,3
+"42","DuPage County (South Central)--Lisle Township PUMA, Illinois",119633,59581,847,5130,5509,10072,6865,4131,8076,2400,3456,5069,6035,1991,"17","03203",29791,"25_to_29_min",9,13,3
+"49","Lake County (Northeast)--Waukegan, Zion, Benton & Newport Townships PUMA; Illinois",135786,62480,1234,2562,5848,11079,8428,5285,10667,1878,3626,3961,5577,2335,"17","03307",31240,"25_to_29_min",9,13,4
+"63","Cook County (Northeast)--Northfield & New Trier Townships PUMA, Illinois",143738,56149,678,5104,6859,7073,6588,2929,7127,2456,2787,7505,6097,946,"17","03416",28075,"25_to_29_min",9,13,2
+"36","Will County (West Central)--Joliet & Troy Townships PUMA, Illinois",134876,60235,1178,5945,9411,7776,7516,3025,6945,1193,2672,6783,5123,2668,"17","03102",30118,"20_to_24_min",8,13,4
+"52","Lake County--Vernon, Moraine, West Deerfield & Libertyville (Southeast) Townships PUMA; Illinois",135337,61214,1279,5758,7801,9363,8180,3956,6630,2073,2515,5647,5189,2823,"17","03310",30608,"20_to_24_min",8,13,5
+"55","Cook County (Central)--Cicero, Berwyn & Oak Park Townships PUMA; Illinois",190499,83351,523,4214,6482,9418,7899,5879,16852,3142,4619,14360,7597,2366,"17","03408",41676,"30_to_34_min",10,12,3
+"69","Cook County (West)--Leyden, Norwood Park (South) Townships & Chicago City--O'Hare PUMA; Illinois",132694,63012,1369,4120,6713,7009,5413,3012,13478,3264,4158,6668,5745,2063,"17","03422",31506,"30_to_34_min",10,12,3
+"54","Cook County (West Central)--Proviso, Riverside & River Forest Townships PUMA; Illinois",176539,84425,1466,6107,9178,11661,10096,4276,15335,3016,4019,9423,8218,1630,"17","03407",42213,"25_to_29_min",9,12,2
+"65","Cook County (Northwest)--Schaumburg Township (South & Central) PUMA, Illinois",113148,57084,356,3781,6508,7599,7191,3985,9093,2804,2871,5947,4753,2196,"17","03418",28542,"25_to_29_min",9,12,4
+"66","Cook County (Northwest)--Elk Grove & Wheeling (Southwest) Townships PUMA, Illinois",122292,61384,1393,5335,9386,6626,7777,3782,9420,2153,3079,5293,5516,1624,"17","03419",30692,"25_to_29_min",9,12,3
+"43","DuPage County (Southeast)--Downers Grove Township PUMA, Illinois",148563,69830,877,4494,9046,10086,9828,3730,10446,2822,3109,7554,6681,1157,"17","03204",34916,"25_to_29_min",9,11,2
+"53","Cook County (Northwest)--Palatine & Barrington Townships PUMA, Illinois",130693,62908,1376,3361,5459,7955,8680,4841,10655,3132,2620,7776,5369,1684,"17","03401",31454,"25_to_29_min",9,11,3
+"68","Cook County (North)--Niles & Evanston Townships PUMA, Illinois",180239,76284,1005,6016,11061,7780,9224,4724,9883,3043,4072,11349,6727,1400,"17","03421",38142,"25_to_29_min",9,11,2
+"28","DeKalb County PUMA, Illinois",104528,51995,3534,11239,8580,5879,3653,2089,2522,1895,1615,5437,3330,2222,"17","02601",25998,"15_to_19_min",7,11,4
+"71","Chicago City (North)--Lake View & Lincoln Park PUMA, Illinois",160866,103404,370,2490,3550,8517,12293,8565,25414,7209,10167,14736,7538,2555,"17","03502",51702,"30_to_34_min",10,10,2
+"46","DuPage County (Northwest)--Bloomingdale (South), Wayne & Winfield (North) Townships PUMA; Illinois",179394,91765,1538,7641,11524,11965,11525,6325,14243,4303,4545,8680,7666,1810,"17","03208",45883,"25_to_29_min",9,10,2
+"67","Cook County (North)--Maine, Norwood Park Townships & Chicago City--Edison Park PUMA; Illinois",187632,88634,715,5894,8819,11239,12528,6506,13681,4562,4486,10993,7632,1579,"17","03420",44318,"25_to_29_min",9,10,2
+"25","Kankakee County PUMA, Illinois",110008,47207,1689,6211,10039,7632,6009,1548,3789,810,1215,3735,2796,1734,"17","02300",23604,"15_to_19_min",7,10,4
+"6","Cass, Morgan, Scott, Greene, Macoupin, Jersey & Calhoun Counties PUMA; Illinois",138356,59457,4434,9283,6961,7061,6364,3630,6292,1460,2742,5799,4364,1067,"17","00401",29729,"20_to_24_min",8,9,2
+"26","LaSalle County PUMA, Illinois",110642,47563,2245,8783,7130,5258,4820,4391,4270,1094,2327,3174,2555,1516,"17","02400",23782,"20_to_24_min",8,9,3
+"44","DuPage County (East Central)--York Township PUMA, Illinois",125767,55561,1185,4760,6572,7458,9202,3072,7972,1616,2130,6536,4209,849,"17","03205",27781,"20_to_24_min",8,9,2
+"51","Lake County (East Central)--Warren, Libertyville (North & East) & Shields Townships PUMA; Illinois",152907,77715,2993,9358,10742,11048,10294,5618,9099,3077,3378,4955,5122,2031,"17","03309",38858,"20_to_24_min",8,9,3
+"62","Cook County (North)--Wheeling Township (North & East) PUMA, Illinois",126590,62298,1179,3660,7851,9694,10421,5060,8945,1169,3560,4953,4363,1443,"17","03415",31150,"20_to_24_min",8,9,2
+"79","Chicago City (Central)--Near North Side, Loop & Near South Side PUMA; Illinois",145782,89793,1445,6623,10084,16332,14337,5068,12000,3333,5957,6386,5369,2859,"17","03525",44897,"20_to_24_min",8,9,3
+"7","Montgomery, Bond, Clinton, Fayette & Effingham Counties PUMA; Illinois",140418,60966,4741,9337,10194,8613,6217,2378,6029,1013,2114,5014,4080,1236,"17","00501",30484,"15_to_19_min",7,9,2
+"78","Chicago City (West)--West Town, Near West Side & Lower West Side PUMA; Illinois",173195,97843,993,5281,9919,14495,16946,8004,17136,3017,6148,8187,5530,2187,"17","03524",48922,"25_to_29_min",9,8,2
+"10","South & Southeast Illinois PUMA, Illinois",135138,49006,4071,7180,5757,5256,5771,2880,7412,1161,1669,3733,3193,923,"17","00800",24504,"20_to_24_min",8,8,2
+"29","Stephenson & Ogle Counties PUMA, Illinois",96897,44321,2202,8346,5495,5127,4986,2417,4746,1577,1979,3685,1860,1901,"17","02700",22161,"20_to_24_min",8,8,4
+"45","Dupage County (Northeast)--Addison & Bloomingdale (North) Townships PUMA, Illinois",117911,59843,927,5976,7576,9853,7833,5533,8083,2731,2157,4307,3971,896,"17","03207",29922,"20_to_24_min",8,8,1
+"14","St. Clair County (Northwest, Southwest & Southeast) PUMA; Illinois",115618,48242,958,3809,8398,8340,8687,3772,5449,1034,1877,2362,2412,1144,"17","01105",24122,"20_to_24_min",8,7,2
+"31","Winnebago (Northeast) & Boone Counties PUMA, Illinois",141997,63890,2463,7119,9255,12819,9678,4961,6275,2195,1804,2807,2319,2195,"17","02901",31946,"20_to_24_min",8,7,3
+"12","Monroe, Randolph, Washington, Jefferson & Marion Counties PUMA; Illinois",157443,67993,5112,9722,8442,9895,9240,4405,7168,2697,2840,4249,3219,1004,"17","01001",33997,"20_to_24_min",8,6,1
+"13","St. Clair County (Central & Northeast) PUMA, Illinois",147141,69962,1302,8255,9384,12193,8523,5268,8350,2824,2401,7302,3036,1124,"17","01104",34982,"20_to_24_min",8,6,2
+"32","Kane County (Southeast)--Aurora Township PUMA, Illinois",148912,68194,754,5921,8334,14718,9744,6320,9237,2299,3028,3636,2659,1544,"17","03005",34098,"20_to_24_min",8,6,2
+"5","Adams, Pike, Brown, Schuyler & Mason Counties PUMA; Illinois",110884,45850,2698,9807,10029,6738,4062,1757,3879,982,1390,1772,1909,827,"17","00300",22926,"15_to_19_min",7,6,2
+"30","Winnebago County (Southeast & West)--Rockford City PUMA, Illinois",197379,83585,1874,9534,17384,17554,14030,4257,6971,983,2031,3782,2690,2495,"17","02801",41793,"15_to_19_min",7,6,3
+"15","Madison County (East) PUMA, Illinois",121887,55541,1611,5649,7452,6107,7256,5075,7243,2644,3386,6413,2461,244,"17","01204",27771,"20_to_24_min",8,5,0
+"16","Madison County (West)--Granite City, Alton, Wood River Cities & Godfrey Village PUMA; Illinois",143872,62295,2449,7061,9653,8808,9212,3567,8393,1666,3258,4846,2566,816,"17","01205",31148,"20_to_24_min",8,5,1
+"19","Menard, Logan, De Witt, Piatt, Moultrie, Shelby & Christian Counties PUMA; Illinois",141503,60897,4169,9744,8381,5530,6377,3423,9074,2907,3978,4410,2287,617,"17","01602",30449,"20_to_24_min",8,5,1
+"2","Jo Daviess, Carroll, Whiteside & Lee Counties PUMA; Illinois",127096,56325,4624,9998,10533,7343,6109,3123,5466,1298,1992,3168,1765,906,"17","00104",28163,"15_to_19_min",7,5,2
+"4","Henry, Mercer, Henderson, Warren, Hancock, McDonough & Fulton Counties PUMA; Illinois",173826,74063,6676,13951,9839,7049,9877,4637,8006,2128,2687,5185,2904,1124,"17","00202",37032,"15_to_19_min",7,5,2
+"9","Clark, Jasper, Crawford, Lawrence, Richland, Clay & Wayne Counties PUMA; Illinois",105503,43189,4688,7446,7100,5816,4716,1539,4567,1040,1164,3027,1303,783,"17","00700",21595,"15_to_19_min",7,5,2
+"11","Jackson, Williamson, Franklin & Perry Counties PUMA; Illinois",186943,72162,3887,12164,12626,10616,9067,4188,7746,1727,2256,4224,2607,1054,"17","00900",36082,"15_to_19_min",7,5,1
+"27","Knox, Stark, Bureau, Marshall & Woodford Counties PUMA; Illinois",146763,63167,4895,11876,8521,8348,7958,4229,6030,1976,2321,3785,2104,1124,"17","02501",31584,"15_to_19_min",7,5,2
+"3","Rock Island County PUMA, Illinois",144784,64444,1832,8401,12811,14025,9987,5541,6486,1032,270,1455,1557,1047,"17","00105",32222,"15_to_19_min",7,4,2
+"8","Douglas, Edgar, Coles & Cumberland Counties PUMA; Illinois",101478,44098,4168,9806,7657,4763,5180,2288,4151,837,1544,2119,1261,324,"17","00600",22050,"15_to_19_min",7,4,1
+"17","Sangamon County--Springfield City PUMA, Illinois",197499,88197,3057,10439,16254,23245,14662,5474,7532,554,733,3096,1343,1808,"17","01300",44099,"15_to_19_min",7,4,2
+"21","Tazewell County PUMA, Illinois",134385,62327,1703,8038,12627,9530,9987,5576,7583,1420,1205,2424,1126,1108,"17","01900",31164,"15_to_19_min",7,4,2
+"24","Livingston, Ford, Iroquois & Vermilion Counties PUMA; Illinois",157864,62282,4720,10713,11535,9379,7752,2725,6002,1559,2628,2889,1504,876,"17","02200",31142,"15_to_19_min",7,4,1
+"18","Macon County--Decatur City PUMA, Illinois",106550,44118,2112,8102,9186,10473,6938,1613,2018,86,369,1741,1036,444,"17","01500",22060,"15_to_19_min",7,3,1
+"20","Peoria County--Peoria City PUMA, Illinois",185006,78891,1812,11238,16824,18808,13996,4663,6060,794,629,1908,1552,607,"17","01701",39446,"15_to_19_min",7,3,1
+"22","McLean County PUMA, Illinois",172418,86984,2835,13934,20926,19633,12646,3081,4456,1463,1797,3431,1767,1015,"17","02000",43492,"15_to_19_min",7,3,1
+"23","Champaign County--Champaign & Urbana Cities PUMA, Illinois",208419,100765,4077,11419,24578,22216,17883,6443,6854,1349,654,2841,1319,1132,"17","02100",50383,"15_to_19_min",7,2,1

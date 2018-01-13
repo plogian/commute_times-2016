@@ -1,0 +1,27 @@
+"","location_name","total_population","total_commuters","less_than_5_min","5_to_9_min","10_to_14_min","15_to_19_min","20_to_24_min","25_to_29_min","30_to_34_min","35_to_39_min","40_to_44_min","45_to_59_min","60_to_89_min","90_or_more_min","state","puma","median_commuter_number","median_commute_bins","median_commute_bin_number","percent_more_than_hour","percent_more_than_90"
+"216","San Joaquin County (South)--Tracy, Manteca & Lathrop Cities PUMA; California",215461,87361,2202,6108,9466,8439,9334,3464,7515,815,1575,8693,15680,14070,"06","07703",43681,"30_to_34_min",10,34,16
+"246","Solano County (Southwest)--Vallejo & Benicia Cities PUMA, California",150253,66566,1143,4978,6480,7438,7524,3685,8383,2218,1541,7620,10945,4611,"06","09501",33284,"30_to_34_min",10,23,7
+"247","Solano County (Central)--Fairfield & Suisun City Cities PUMA, California",150978,67907,1904,5211,12142,9684,6290,2678,6125,1284,2803,6378,8783,4625,"06","09502",33954,"20_to_24_min",8,20,7
+"215","San Joaquin County (Central)--Stockton City (South) PUMA, California",151685,51786,1145,6033,6893,8345,6109,3058,6751,351,1276,2356,5214,4255,"06","07702",25894,"20_to_24_min",8,18,8
+"214","San Joaquin County (Central)--Stockton City (North) PUMA, California",191710,72535,1676,7688,10965,12652,11845,3494,7732,429,1081,3691,4744,6538,"06","07701",36268,"20_to_24_min",8,16,9
+"12","Alpine, Amador, Calaveras, Inyo, Mariposa, Mono & Tuolumne Counties PUMA; California",187422,69297,4662,10845,9793,8083,6092,3085,6082,1827,3574,5855,5064,4335,"06","00300",34649,"20_to_24_min",8,14,6
+"26","El Dorado County--El Dorado Hills PUMA, California",185625,73427,2504,6915,11250,11612,8851,3237,7633,3126,3171,5285,6241,3602,"06","01700",36714,"20_to_24_min",8,13,5
+"248","Solano County (Northeast)--Vacaville & Dixon Cities PUMA, California",138976,60410,2106,6186,11465,9857,5893,2972,4434,1819,2706,5523,4132,3317,"06","09503",30206,"20_to_24_min",8,12,5
+"168","Sacramento County (South)--Galt, Isleton Cities & Delta Region PUMA; California",110514,43111,1017,2449,3976,3055,6782,2430,9102,1405,2582,5427,2936,1950,"06","06711",21556,"30_to_34_min",10,11,5
+"142","Placer County (East/High Country Region)--Auburn & Colfax Cities PUMA, California",109384,43947,1212,3907,5426,7389,7460,2410,4497,1223,1458,4170,3272,1523,"06","06103",21974,"20_to_24_min",8,11,3
+"256","Sutter & Yuba Counties--Yuba City PUMA, California",171926,64952,2250,6180,9886,12514,7250,2278,5808,1461,4259,5719,4249,3098,"06","10100",32476,"20_to_24_min",8,11,5
+"167","Sacramento County (Central)--Elk Grove City PUMA, California",164166,70999,1158,5377,7646,9068,9253,5048,11563,3140,5486,6480,4153,2627,"06","06710",35500,"25_to_29_min",9,10,4
+"217","San Joaquin County (North)--Lodi, Ripon & Escalon Cities PUMA; California",174853,69503,3264,10502,10346,8445,11085,3025,10758,640,1165,3555,4040,2678,"06","07704",34752,"20_to_24_min",8,10,4
+"141","Placer County (Central)--Rocklin, Lincoln Cities & Loomis Town PUMA; California",128394,54713,1068,6010,7872,8721,6360,3051,7419,1811,1877,5645,2898,1981,"06","06102",27357,"20_to_24_min",8,9,4
+"163","Sacramento County (North)--Sacramento City (North), Antelope & Rio Linda PUMA; California",126606,48601,614,2031,4155,6594,9744,4307,8262,2148,3182,3455,1888,2221,"06","06706",24301,"25_to_29_min",9,8,5
+"159","Sacramento County (Central)--Rancho Cordova City PUMA, California",118672,53703,810,3795,6871,9861,8012,3510,10034,1089,1620,4004,2645,1452,"06","06702",26852,"20_to_24_min",8,8,3
+"140","Placer County (Southwest)--Roseville City PUMA, California",142753,58241,1225,6652,8943,8611,6316,3686,9199,2637,2568,4327,2730,1347,"06","06101",29121,"20_to_24_min",8,7,2
+"158","Sacramento County (North Central)--Citrus Heights City PUMA, California",109197,50448,639,2012,5865,8814,9522,4684,8510,1150,1297,4580,1646,1729,"06","06701",25224,"20_to_24_min",8,7,3
+"161","Sacramento County (North Central)--North Highlands, Foothill Farms & McClellan Park PUMA; California",137671,52006,777,2907,3905,9330,11304,4068,9361,2060,1852,2724,1620,2098,"06","06704",26004,"20_to_24_min",8,7,4
+"165","Sacramento County--Sacramento City (Southeast/Fruitridge, Avondale & Depot Park) PUMA; California",134483,45468,321,3992,6555,8405,9184,3040,5981,1170,1038,2631,1728,1423,"06","06708",22734,"20_to_24_min",8,7,3
+"166","Sacramento County--Sacramento City (Southwest/Pocket, Meadowview & North Laguna) PUMA; California",147813,62493,299,3949,5150,10860,12025,5412,12173,874,2637,4615,2958,1541,"06","06709",31247,"20_to_24_min",8,7,2
+"169","Sacramento County (Northeast)--Folsom City, Orangevale & Fair Oaks (East) PUMA; California",114459,46327,704,4273,6607,6853,7356,4044,5764,1809,2034,3845,2115,923,"06","06712",23164,"20_to_24_min",8,7,2
+"160","Sacramento County (North Central)--Arden-Arcade, Carmichael & Fair Oaks (West) PUMA; California",114911,48058,267,3353,6909,6247,8990,3600,9784,2601,1757,1761,1812,977,"06","06703",24030,"20_to_24_min",8,6,2
+"266","Yolo County--Davis, Woodland & West Sacramento Cities PUMA; California",215802,87190,1550,11420,16183,13654,11181,5185,12343,2825,2637,4610,3174,2428,"06","11300",43596,"20_to_24_min",8,6,3
+"162","Sacramento County (Northwest)--Sacramento City (Northwest/Natomas) PUMA, California",116455,52548,480,3045,7167,8487,9829,3360,10710,1073,2758,3069,1015,1555,"06","06705",26274,"20_to_24_min",8,5,3
+"164","Sacramento County (West)--Sacramento City (Central/Downtown & Midtown) PUMA, California",119513,57099,1577,5027,12915,10767,9317,3643,7189,985,959,1717,1451,1552,"06","06707",28550,"15_to_19_min",7,5,3

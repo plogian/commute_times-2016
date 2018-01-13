@@ -1,0 +1,24 @@
+"","location_name","total_population","total_commuters","less_than_5_min","5_to_9_min","10_to_14_min","15_to_19_min","20_to_24_min","25_to_29_min","30_to_34_min","35_to_39_min","40_to_44_min","45_to_59_min","60_to_89_min","90_or_more_min","state","puma","median_commuter_number","median_commute_bins","median_commute_bin_number","percent_more_than_hour","percent_more_than_90"
+"6","Carroll County PUMA, Maryland",167656,81202,1612,6069,7242,7577,7725,4833,7961,3119,4067,13716,12388,4893,"24","00400",40602,"30_to_34_min",10,21,6
+"33","Prince George's County (Northwest)--New Carrollton & Hyattsville (Southeast) Cities PUMA, Maryland",111801,59337,1267,2231,2963,5658,6334,3661,10687,2335,4612,8515,8770,2304,"24","01103",29669,"30_to_34_min",10,19,4
+"41","Anne Arundel County (Southeast)--Annapolis City, Parole, Annapolis Neck & Edgewater PUMA; Maryland",142382,70172,1183,6411,8506,8574,6285,2882,7943,3423,2880,9632,8910,3543,"24","01204",35086,"30_to_34_min",10,18,5
+"40","Anne Arundel County (Central)--Severna Park, Arnold & Lake Shore PUMA; Maryland",135109,69853,798,3992,6818,7661,9543,5299,10038,2764,3970,7901,8836,2233,"24","01203",34927,"30_to_34_min",10,16,3
+"17","Baltimore City--Sandtown-Winchester, Ashburton & Mount Washington PUMA; Maryland",139219,52311,346,1434,3323,7234,8016,3054,11202,1073,2071,6644,5230,2684,"24","00801",26156,"30_to_34_min",10,15,5
+"38","Anne Arundel County (Northwest)--Severn, Odenton, Crofton, Maryland City & Fort Meade PUMA; Maryland",170540,82795,973,4564,8283,13472,12103,6866,10242,3622,2822,7476,9319,3053,"24","01201",41398,"25_to_29_min",9,15,4
+"42","Queen Anne's, Talbot, Caroline, Dorchester & Kent Counties PUMA; Maryland",171045,77811,3390,8798,10105,10878,7480,5661,7932,1970,2634,7605,6734,4624,"24","01300",38906,"20_to_24_min",8,15,6
+"14","Harford County (North & West)--Bel Air Town, Fallston & Jarrettsville PUMA; Maryland",137735,64788,1447,4658,7327,7070,5968,3679,8527,2620,3449,11199,7027,1817,"24","00601",32394,"30_to_34_min",10,14,3
+"7","Baltimore County (Outer) PUMA, Maryland",120564,57857,666,2370,4929,7575,6970,4085,9595,2337,4528,7523,5029,2250,"24","00501",28929,"30_to_34_min",10,13,4
+"22","Howard County (West)--Columbia (West) & Ellicott City (Northwest) PUMA, Maryland",136193,69721,827,3803,5332,10654,8914,5195,8409,3935,4180,9729,5611,3132,"24","00901",34861,"30_to_34_min",10,13,4
+"19","Baltimore City--Frankford, Belair-Edison & Loch Raven PUMA; Maryland",111461,52306,603,1736,2820,6726,10050,3832,10642,1827,2284,5327,4471,1988,"24","00803",26154,"30_to_34_min",10,12,4
+"23","Howard County (East)--Columbia (East), Ellicott City (Southeast) & Elkridge PUMA; Maryland",181040,92780,1137,4550,10989,16393,14225,3962,12414,4617,4400,9273,8009,2811,"24","00902",46390,"20_to_24_min",8,12,3
+"21","Baltimore City--Irvington, Ten Hills & Cherry Hill PUMA; Maryland",118360,51606,150,3404,5104,7196,9333,4695,8573,1303,1133,5086,4107,1522,"24","00805",25804,"25_to_29_min",9,11,3
+"18","Baltimore City--Guilford, Roland Park & Druid Lake PUMA; Maryland",110573,46012,711,2752,4754,8372,8716,2476,7266,1403,1376,3096,2499,2591,"24","00802",23006,"20_to_24_min",8,11,6
+"20","Baltimore City--Inner Harbor, Canton & Bayview PUMA; Maryland",135051,64466,734,4893,9565,9593,9706,3984,8677,2527,2674,5008,4483,2622,"24","00804",32234,"20_to_24_min",8,11,4
+"15","Harford County (South & East)--Aberdeen & Havre de Grace Cities PUMA, Maryland",113297,56031,1034,5342,6061,7491,7909,3296,8102,2023,2779,6568,2957,2469,"24","00602",28016,"25_to_29_min",9,10,4
+"11","Baltimore County--Perry Hall, Middle River & Rosedale PUMA; Maryland",111601,57253,542,3014,5225,5039,8524,4883,12124,2295,3425,7159,3560,1463,"24","00505",28627,"30_to_34_min",10,9,3
+"13","Baltimore County--Catonsville, Woodlawn & Arbutus PUMA; Maryland",108665,55736,1185,2367,5413,8797,8974,4593,7984,2524,2786,6100,4103,910,"24","00507",27868,"25_to_29_min",9,9,2
+"8","Baltimore County--Randallstown (East), Owings Mills, Milford Mill & Reisterstown PUMA; Maryland",131565,65777,910,2258,3595,7860,9422,5560,10814,5193,5021,9778,3963,1403,"24","00502",32889,"30_to_34_min",10,8,2
+"10","Baltimore County--Towson (East & Central), Parkville & Carney PUMA; Maryland",121234,57673,559,3359,6025,8943,10136,5020,8990,1692,3520,4674,3197,1558,"24","00504",28837,"20_to_24_min",8,8,3
+"9","Baltimore County--Pikesville (South), Lochearn, Cockeysville & Mays Chapel PUMA; Maryland",118450,55388,210,3089,6513,8683,7403,4453,10167,1803,2801,6152,2212,1902,"24","00503",27694,"25_to_29_min",9,7,3
+"12","Baltimore County--Dundalk, Essex & Edgemere PUMA; Maryland",118947,49944,591,2639,5793,6657,6828,3814,8383,1640,3172,6688,2673,1066,"24","00506",24972,"25_to_29_min",9,7,2
+"39","Anne Arundel County (North)--Glen Burnie, Pasadena, Ferndale & Brooklyn Park PUMA; Maryland",120315,61485,537,3712,7259,8415,10645,6983,10263,2201,1947,5416,2519,1588,"24","01202",30743,"25_to_29_min",9,7,3
